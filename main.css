@@ -1,0 +1,32 @@
+body{
+    background: #2700ffb8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#content{
+    background: #00dcffc7;
+    width: 900px;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1%;
+}
+
+.todo-items{
+    width:80%;
+    height:8%;
+    background-color: white;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+
